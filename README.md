@@ -1,16 +1,17 @@
-# tugas_week_2_1123150004
+# How to Run
 
-A new Flutter project.
+## Clone Repository
+```bash
+git clone https://github.com/AryaPramudya898/tugas_minggu_2_1123150004.git
+cd tugas_minggu_2_1123150004
+```
 
-## Getting Started
+## Install Dependencies
+```bash
+flutter pub get
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run Project
+```bash
+flutter run
+```
